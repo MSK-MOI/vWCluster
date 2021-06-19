@@ -12,11 +12,11 @@ Requirements:
 In this repository:
 
 1. main finds the pairwise Wasserstein distances between samples. 
-```
-Invarinat_3: creates the integative measure of (mRNA, CNA and Methylation) for a given sample.
-```
-dist_cvx: individual vector-valued OMT distance calcualtion
 
-2.  Hier_clustering build a hierachical clustering of the samples using the Wasserstein distances and then run Kaplan-Meier analysis
-```
-MatSurv: Kaplan-Meier analysis, download from https://www.mathworks.com/matlabcentral/fileexchange/64582-matsurv
+2. Invarinat_3: creates the integative measure of (mRNA, CNA and Methylation) for a given sample.
+
+3. dist_cvx: individual vector-valued OMT distance calcualtion
+
+4. Hier_clustering build a hierachical clustering of the samples using the Wasserstein distances and then run Kaplan-Meier analysis
+
+5. MatSurv: Kaplan-Meier analysis, download from https://www.mathworks.com/matlabcentral/fileexchange/64582-matsurv
