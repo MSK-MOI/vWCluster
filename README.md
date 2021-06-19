@@ -3,7 +3,7 @@ vWCluster is a network-based clustering method based on the vector-valued Wasser
 
 vWCluster treat mRNA expression, DNA copy number alteration, and DNA methylation data a multi-layer super graph structure and a novel extension of optimal tranport, vector-valued OMT is used. 
 
-A sample of these data for 100 breast cancer (tcga) patients and 290 genes (intersection of HPRD and OncoKB ) is given in the file "Data".
+A sample of these data for 1904 breast cancer (METABRIC) patients and 3417 genes is given in the folder "data". 
 
 Requirements:
 1. MATLAB
